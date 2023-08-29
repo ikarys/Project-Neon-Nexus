@@ -1,0 +1,42 @@
+= Nyx: Cybernetic Chronicles
+
+== Concept
+"Nyx: Cybernetic Chronicles" is a cyberpunk-themed rogue-like game with isometric tilted perspective. Players take on the role of Nyx, a skilled hacker, as he navigates randomly generated levels, battles futuristic enemies, and uncovers a deep mystery in a dystopian cyberpunk world.
+
+== Gameplay Mechanics
+* Cumulative Progression:: Players accumulate experience, skills, and upgrades between runs.
+* Unique Initial Challenge:: Each new run starts with a basic character without accumulated upgrades.
+* Terminal Interaction:: Players can interact with terminals and security systems to reveal story information.
+* Dynamic Combat:: Players use various weapons like lasers, lightning, grenades, and laser whips.
+* Destructible Environments:: Elements of the environment can be destroyed to reveal items or hidden passages.
+* Exploration of Special Rooms:: Secret rooms, story hints, and secondary characters.
+
+== Playable Characters
+* Nyx:: The main character, a seasoned hacker with special hacking skills.
+* Unlockable Characters:: Each with unique characteristics, skills, and dedicated weapons.
+
+== Environments
+* Randomly generated levels with cyberpunk elements: skyscrapers, neon-lit alleys, abandoned buildings, etc.
+* Integration of interactive terminals, destructible objects, and secret passages.
+
+== Objectives
+* Each level concludes with a unique boss fight.
+* Players collect credits to purchase upgrades and items between runs.
+
+== Art and Graphics
+* 2D graphic style with isometric tilted perspective.
+* Pixel art graphics for characters, environments, and objects.
+* Use of lighting dynamics to create a cyberpunk ambiance.
+
+== Sound and Music
+* Sound effects for in-game actions (shooting, movement, etc.).
+* Futuristic and electronic ambient music.
+
+== Development Cycle
+1. Initial design and prototyping.
+2. Art and graphics creation.
+3. Programming of gameplay mechanics.
+4. Level creation and level design.
+5. Integration of sounds and music.
+6. Testing, iterations, and optimizations.
+7. Finalization and preparation for publishing.
